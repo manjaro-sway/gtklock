@@ -1,4 +1,4 @@
 _extends: manjaro-contrib/.github
 repository:
   homepage: https://gitlab.archlinux.org/archlinux/packaging/packages/gtklock
-  topics: arch, package
+  topics: arch, package, x86-64, aarch64
